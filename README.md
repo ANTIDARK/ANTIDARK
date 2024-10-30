@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+欢迎━(*｀∀´*)ノ亻!
+https://antidark.github.io/antidark/
 <!--
 **ANTIDARK/antidark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
